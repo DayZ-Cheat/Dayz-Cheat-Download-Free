@@ -1,0 +1,1 @@
+console.log("DayZ Cheat is active!");
